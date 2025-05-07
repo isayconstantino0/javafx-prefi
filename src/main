@@ -1,0 +1,7 @@
+traffic-light-view.fxml change vbox circle color to gray and button
+todo-view.fxml change the color listview to gray hbox change to green, button change color to black
+splash-screen-view.fxml background color change to yellow, label change the color black
+dashboard-view.fxml change the color to red and green
+calculator-view.fxml vbox color change to skyblue
+git config --global user.email "benselrecla9@gmail.com"
+  git config --global user.name "BenRecla"
